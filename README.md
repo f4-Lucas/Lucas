@@ -1,1 +1,1 @@
-# Lucas
+Lógica e Programação
